@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on juliambrown</title>
+    <link>https://juliambrown.github.io/tags/research/</link>
+    <description>Recent content in research on juliambrown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://juliambrown.github.io/pages/research/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliambrown.github.io/pages/research/</guid>
+      <description>The image at the top of this page is a microscopy slide created from half a teaspoon of seawater. In this image, the larger dots are bacteria. The smaller dots, resembling distant stars within the frame, are viruses. There about 10 times as many viruses in this image as bacteria, though one may note that there are lot of both in this half a teaspoon of water!
+When you step into the ocean on planet Earth, you are stepping into an ocean of viruses.</description>
+    </item>
+    
+  </channel>
+</rss>

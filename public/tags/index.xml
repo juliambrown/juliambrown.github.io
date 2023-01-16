@@ -2,25 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on juliambrown</title>
-    <link>https://blist.vercel.app/tags/</link>
+    <link>https://juliambrown.github.io/tags/</link>
     <description>Recent content in Tags on juliambrown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about me</title>
-      <link>https://blist.vercel.app/tags/about-me/</link>
+      <link>https://juliambrown.github.io/tags/about-me/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blist.vercel.app/tags/about-me/</guid>
+      <guid>https://juliambrown.github.io/tags/about-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>narrative</title>
-      <link>https://blist.vercel.app/tags/narrative/</link>
+      <link>https://juliambrown.github.io/tags/narrative/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blist.vercel.app/tags/narrative/</guid>
+      <guid>https://juliambrown.github.io/tags/narrative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://juliambrown.github.io/tags/research/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliambrown.github.io/tags/research/</guid>
       <description></description>
     </item>
     

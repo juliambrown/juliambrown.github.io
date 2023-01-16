@@ -2,7 +2,7 @@
 author: "Julia Brown"
 title: "First Post"
 date: 2023-01-01
-description: "a ramble of an intro"
+description: "a small ramble"
 thumbnail: "/IMG_5350.jpeg"
 keywords: ["about-me", "about-hugo", "contact"]
 type: about

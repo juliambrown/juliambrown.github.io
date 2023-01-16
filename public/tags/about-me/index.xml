@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about me on juliambrown</title>
-    <link>https://blist.vercel.app/tags/about-me/</link>
+    <link>https://juliambrown.github.io/tags/about-me/</link>
     <description>Recent content in about me on juliambrown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world</title>
-      <link>https://blist.vercel.app/blog/my-first-post/</link>
+      <title>About</title>
+      <link>https://juliambrown.github.io/pages/about/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blist.vercel.app/blog/my-first-post/</guid>
-      <description>Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.
-As this website is fresh, and I am not yet sure where I plan to take it, I will begin it all by introducting myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two little girls, regretably trying to do it all. My background is in microbiology and environmental virology, focusing primarily on marine phages.</description>
+      <guid>https://juliambrown.github.io/pages/about/</guid>
+      <description>Hello! I am a Research Scientist at Bigelow Laboratory for Ocean Sciences.
+My background. I earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, I pivoted from the traditional academic route to take a position as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine. For SCGC, I took on an array of responsibilities and research, from maintaining and scripting for the center&amp;rsquo;s Laboratory Information Management System, to developing, updating and maintaining standardized bioinformatics workflows.</description>
     </item>
     
   </channel>

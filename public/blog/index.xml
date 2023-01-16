@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on juliambrown</title>
-    <link>https://blist.vercel.app/blog/</link>
+    <link>https://juliambrown.github.io/blog/</link>
     <description>Recent content in Blogs on juliambrown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world</title>
-      <link>https://blist.vercel.app/blog/my-first-post/</link>
-      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <title>First Post</title>
+      <link>https://juliambrown.github.io/blog/my-first-post/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blist.vercel.app/blog/my-first-post/</guid>
+      <guid>https://juliambrown.github.io/blog/my-first-post/</guid>
       <description>Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.
-As this website is fresh, and I am not yet sure where I plan to take it, I will begin it all by introducting myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two little girls, regretably trying to do it all. My background is in microbiology and environmental virology, focusing primarily on marine phages.</description>
+As this website is fresh, and I am not yet sure where I plan to take it, I will begin it all by introducing myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two little girls, regretably trying to do it all.
+The image for this post is a photo I took in March, 2021 at my favorite hiking spot.</description>
     </item>
     
   </channel>
