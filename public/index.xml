@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>juliambrown</title>
+    <link>https://blist.vercel.app/</link>
+    <description>Recent content on juliambrown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>https://blist.vercel.app/blog/my-first-post/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/blog/my-first-post/</guid>
+      <description>Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.
+As this website is fresh, and I am not yet sure where I plan to take it, I will begin it all by introducting myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two little girls, regretably trying to do it all. My background is in microbiology and environmental virology, focusing primarily on marine phages.</description>
+    </item>
+    
+  </channel>
+</rss>
