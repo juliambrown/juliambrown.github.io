@@ -5,7 +5,17 @@
     <link>https://juliambrown.github.io/</link>
     <description>Recent content on juliambrown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do I get the data: IMG</title>
+      <link>https://juliambrown.github.io/blog/img_api/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliambrown.github.io/blog/img_api/</guid>
+      <description>I recently started a project with collaborators whose data was sequenced at JGI, and available through the IMG. Their project was stalled because they could not get all of the data they&amp;rsquo;d sequencenced from JGI downloaded onto on site storage for tailored bioinformatics analyses.
+The scale of the project was not enormous given how much sequencing is done these days, 17 metagenomes, but they wanted to have both reads, assembled contigs and assembly QC information, such as read coverage profiles per contig (.</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://juliambrown.github.io/blog/my-first-post/</link>
