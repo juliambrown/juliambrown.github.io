@@ -4,8 +4,8 @@ title: "First Post"
 date: 2023-01-01
 description: "a small ramble"
 thumbnail: "/IMG_5350.jpeg"
-keywords: ["about-me", "about-hugo", "contact"]
-type: about
+keywords: ['about-me', 'intro']
+type: blog
 ---
 
 Welcome to my website, I'm so happy you've stopped by to visit.
