@@ -12,8 +12,8 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://juliambrown.github.io/blog/img_api/</guid>
-      <description>I recently started a project with collaborators whose data was sequenced at JGI, and available through the IMG. Their project was stalled because they could not get all of the data they&amp;rsquo;d sequencenced from JGI downloaded onto on site storage for tailored bioinformatics analyses.
-The scale of the project was not enormous given how much sequencing is done these days, 17 metagenomes, but they wanted to have both reads, assembled contigs and assembly QC information, such as read coverage profiles per contig (.</description>
+      <description>IMG is a great resource for microbial genomics data. To do a big metaanalysis, or even to download metagenomic reads, it&amp;rsquo;s often necessary to work outside of their web user interface. Download times are long, and data files are too big to be reasonably stored on a personal machine.
+Options, as outlined by IMG, are either using a Globus endpoint for downloading data, or using the API. Globus requires a subscription, which we do not have at our institution.</description>
     </item>
     
     <item>
@@ -23,8 +23,8 @@ The scale of the project was not enormous given how much sequencing is done thes
       
       <guid>https://juliambrown.github.io/blog/my-first-post/</guid>
       <description>Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.
-As this website is fresh, and I am not yet sure where I plan to take it, I will begin it all by introducing myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two little girls, regretably trying to do it all.
-The image for this post is a photo I took in March, 2021 at my favorite hiking spot.</description>
+Let me introduce myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two under 5.
+The image for this post is a photo I took in March, 2021 at my favorite hiking spot. I try to visit this spot at least once a month regardless of the season, and use my time in the woods to reorganize my thoughts.</description>
     </item>
     
   </channel>

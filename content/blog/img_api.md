@@ -4,14 +4,14 @@ title: "How do I get the data: IMG"
 date: 2023-01-20
 description: "Wrangling IMG's API"
 thumbnail: ""
-keywords: ['DNA','Bioinformatics', 'Getting Data']
+keywords: ['DNA','Bioinformatics', 'Data acquisition']
 type: blog
 ---
 
-I recently started a project with collaborators whose data was sequenced at JGI, and available through the IMG. Their project was stalled because they could not get all of the data they'd sequencenced from JGI downloaded onto on site storage for tailored bioinformatics analyses.
+IMG is a great resource for microbial genomics data. To do a big metaanalysis, or even to download metagenomic reads, it's often necessary to work outside of their web user interface. Download times are long, and data files are too big to be reasonably stored on a personal machine.
 
-The scale of the project was not enormous given how much sequencing is done these days, 17 metagenomes, but they wanted to have both reads, assembled contigs and assembly QC information, such as read coverage profiles per contig (.sam files). This amounted to more than a terabyte of data... way too much to download to a local machine, so manual downloading was out of the question. Given the way that IMG's interface is set up, and the amount of time it takes to download large files such as fastq data, local downloads would've taken forever.
+Options, as outlined by IMG, are either using a [Globus](https://www.globus.org/) endpoint for downloading data, or using the API. Globus requires a subscription, which we do not have at our institution. After a little bit of playing around and leaning into IMG's instructions, I was able to get everything we needed using the API.
 
-IMG suggests using a [Globus](https://www.globus.org/) endpoint for downloading data, but our institution does not have an Globus account. My colleagues were feeling frustrated and out of options.
+All of the information required is available through their [download instructions]().
 
 More soon on how we solved this...

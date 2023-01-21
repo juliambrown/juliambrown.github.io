@@ -12,8 +12,8 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://juliambrown.github.io/blog/img_api/</guid>
-      <description>I recently started a project with collaborators whose data was sequenced at JGI, and available through the IMG. Their project was stalled because they could not get all of the data they&amp;rsquo;d sequencenced from JGI downloaded onto on site storage for tailored bioinformatics analyses.
-The scale of the project was not enormous given how much sequencing is done these days, 17 metagenomes, but they wanted to have both reads, assembled contigs and assembly QC information, such as read coverage profiles per contig (.</description>
+      <description>IMG is a great resource for microbial genomics data. To do a big metaanalysis, or even to download metagenomic reads, it&amp;rsquo;s often necessary to work outside of their web user interface. Download times are long, and data files are too big to be reasonably stored on a personal machine.
+Options, as outlined by IMG, are either using a Globus endpoint for downloading data, or using the API. Globus requires a subscription, which we do not have at our institution.</description>
     </item>
     
     <item>
@@ -23,8 +23,8 @@ The scale of the project was not enormous given how much sequencing is done thes
       
       <guid>https://juliambrown.github.io/blog/my-first-post/</guid>
       <description>Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.
-As this website is fresh, and I am not yet sure where I plan to take it, I will begin it all by introducing myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two little girls, regretably trying to do it all.
-The image for this post is a photo I took in March, 2021 at my favorite hiking spot.</description>
+Let me introduce myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two under 5.
+The image for this post is a photo I took in March, 2021 at my favorite hiking spot. I try to visit this spot at least once a month regardless of the season, and use my time in the woods to reorganize my thoughts.</description>
     </item>
     
     <item>
@@ -33,8 +33,8 @@ The image for this post is a photo I took in March, 2021 at my favorite hiking s
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://juliambrown.github.io/pages/about/</guid>
-      <description>Hello! I am a Research Scientist at Bigelow Laboratory for Ocean Sciences.
-My background. I earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, I pivoted from the traditional academic route to take a position as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine. For SCGC, I took on an array of responsibilities and research, from maintaining and scripting for the center&amp;rsquo;s Laboratory Information Management System, to developing, updating and maintaining standardized bioinformatics workflows.</description>
+      <description>Hello! I am a Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using bioinformatics techniques.
+I earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, I pivoted from the traditional academic route to take a position as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine.</description>
     </item>
     
     <item>
@@ -43,8 +43,8 @@ My background. I earned a PhD in Microbiology from Cornell, then held a year-lon
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://juliambrown.github.io/pages/research/</guid>
-      <description>The image at the top of this page is a microscopy slide created from half a teaspoon of seawater. In this image, the larger dots are bacteria. The smaller dots, resembling distant stars within the frame, are viruses. There about 10 times as many viruses in this image as bacteria, though one may note that there are lot of both in this half a teaspoon of water!
-When you step into the ocean on planet Earth, you are stepping into an ocean of viruses.</description>
+      <description>When you step into the ocean on planet Earth, you are stepping into an ocean of viruses. Roughly 50 million viruses are suspended within every teaspoon of seawater. The vast majority of these viruses infect microscopic organisms. Their complex relationship with hosts, ecosystems and biogeochemistry make them one of the least understood components of environments around the globe.
+The image at the top of this page is a microscopy slide created from half a teaspoon of seawater.</description>
     </item>
     
   </channel>

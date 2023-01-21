@@ -9,7 +9,7 @@
   How do I get the data: IMG - juliambrown
   </title>
   <meta name="description" content="Wrangling IMG&#39;s API" />
-  <meta name="keywords" content="DNA,Bioinformatics,Getting Data" />
+  <meta name="keywords" content="DNA,Bioinformatics,Data acquisition" />
   
   <meta name="author" content="Julia Brown" />
   <meta name="generator" content="Hugo 0.109.0"><link
@@ -34,7 +34,7 @@
   <meta itemprop="name" content="How do I get the data: IMG">
 <meta itemprop="description" content="Wrangling IMG&#39;s API"><meta itemprop="datePublished" content="2023-01-20T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-01-20T00:00:00+00:00" />
-<meta itemprop="wordCount" content="173">
+<meta itemprop="wordCount" content="121">
 <meta itemprop="keywords" content="" />
 
   
@@ -143,7 +143,7 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      173&nbsp;words
+      121&nbsp;words
       
         
       
@@ -152,10 +152,11 @@
 
     
 
-    <p>I recently started a project with collaborators whose data was sequenced at JGI, and available through the IMG. Their project was stalled because they could not get all of the data they&rsquo;d sequencenced from JGI downloaded onto on site storage for tailored bioinformatics analyses.</p>
-<p>The scale of the project was not enormous given how much sequencing is done these days, 17 metagenomes, but they wanted to have both reads, assembled contigs and assembly QC information, such as read coverage profiles per contig (.sam files). This amounted to more than a terabyte of data&hellip; way too much to download to a local machine, so manual downloading was out of the question. Given the way that IMG&rsquo;s interface is set up, and the amount of time it takes to download large files such as fastq data, local downloads would&rsquo;ve taken forever.</p>
-<p>IMG suggests using a <a href="https://www.globus.org/" target="_blank" rel="noopener">Globus</a>
- endpoint for downloading data, but our institution does not have an Globus account. My colleagues were feeling frustrated and out of options.</p>
+    <p>IMG is a great resource for microbial genomics data. To do a big metaanalysis, or even to download metagenomic reads, it&rsquo;s often necessary to work outside of their web user interface. Download times are long, and data files are too big to be reasonably stored on a personal machine.</p>
+<p>Options, as outlined by IMG, are either using a <a href="https://www.globus.org/" target="_blank" rel="noopener">Globus</a>
+ endpoint for downloading data, or using the API. Globus requires a subscription, which we do not have at our institution. After a little bit of playing around and leaning into IMG&rsquo;s instructions, I was able to get everything we needed using the API.</p>
+<p>All of the information required is available through their <a href="">download instructions</a>
+.</p>
 <p>More soon on how we solved this&hellip;</p>
 
   </article><div class="bg-blue-100 dark:bg-gray-900">
