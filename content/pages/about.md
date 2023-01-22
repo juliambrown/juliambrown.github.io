@@ -3,12 +3,12 @@ author: "Julia Brown"
 title: "About"
 description: ""
 date: 2022-01-08
-thumbnail: "/IMG_0623.jpeg"
+thumbnail: "/IMG_5036.jpeg"
 tags: ['about me','narrative']
 draft: false
 ---
 
-Hello! I am a Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using bioinformatics techniques. 
+Hello! I am a Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using multi-omics techniques. 
 
  I earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, I pivoted from the traditional academic route to take a position as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine. For SCGC, I took on an array of responsibilities and research, from maintaining and scripting for the center's Laboratory Information Management System, to developing, updating and maintaining bioinformatics workflows.  
 

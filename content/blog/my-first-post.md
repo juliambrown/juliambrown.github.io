@@ -6,6 +6,7 @@ description: "a small ramble"
 thumbnail: "/IMG_5350.jpeg"
 keywords: ['about-me', 'intro']
 type: blog
+draft: false
 ---
 
 Welcome to my website, I'm so happy you've stopped by to visit.

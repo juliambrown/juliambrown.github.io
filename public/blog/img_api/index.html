@@ -6,7 +6,7 @@
   <link rel="icon" href="/favicon.svg">
 
   <title>
-  How do I get the data: IMG - juliambrown
+  Getting data: IMG - juliambrown
   </title>
   <meta name="description" content="Wrangling IMG&#39;s API" />
   <meta name="keywords" content="DNA,Bioinformatics,Data acquisition" />
@@ -20,7 +20,7 @@
   
   
 
-  <meta property="og:title" content="How do I get the data: IMG" />
+  <meta property="og:title" content="Getting data: IMG" />
 <meta property="og:description" content="Wrangling IMG&#39;s API" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://juliambrown.github.io/blog/img_api/" /><meta property="article:section" content="blog" />
@@ -28,13 +28,13 @@
 <meta property="article:modified_time" content="2023-01-20T00:00:00+00:00" />
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="How do I get the data: IMG"/>
+<meta name="twitter:title" content="Getting data: IMG"/>
 <meta name="twitter:description" content="Wrangling IMG&#39;s API"/>
 
-  <meta itemprop="name" content="How do I get the data: IMG">
+  <meta itemprop="name" content="Getting data: IMG">
 <meta itemprop="description" content="Wrangling IMG&#39;s API"><meta itemprop="datePublished" content="2023-01-20T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-01-20T00:00:00+00:00" />
-<meta itemprop="wordCount" content="121">
+<meta itemprop="wordCount" content="174">
 <meta itemprop="keywords" content="" />
 
   
@@ -105,10 +105,24 @@
   
 
   
+  <div class="relative max-w-5xl mx-auto px-4">
+    <img src="/IMG_0625.jpeg" class="rounded-lg shadow-sm w-full object-contain" />
+    
+    <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
+      
+  
+    January 20, 2023
+  
+
+
+    </div>
+    
+  </div>
+  
 
   <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
 
-    <h1 class="text-2xl font-bold mb-2">How do I get the data: IMG</h1>
+    <h1 class="text-2xl font-bold mb-2">Getting data: IMG</h1>
     
     <h5 class="text-sm flex items-center flex-wrap">
       <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -143,7 +157,7 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      121&nbsp;words
+      174&nbsp;words
       
         
       
@@ -152,10 +166,13 @@
 
     
 
-    <p>IMG is a great resource for microbial genomics data. To do a big metaanalysis, or even to download metagenomic reads, it&rsquo;s often necessary to work outside of their web user interface. Download times are long, and data files are too big to be reasonably stored on a personal machine.</p>
-<p>Options, as outlined by IMG, are either using a <a href="https://www.globus.org/" target="_blank" rel="noopener">Globus</a>
- endpoint for downloading data, or using the API. Globus requires a subscription, which we do not have at our institution. After a little bit of playing around and leaning into IMG&rsquo;s instructions, I was able to get everything we needed using the API.</p>
-<p>All of the information required is available through their <a href="">download instructions</a>
+    <p>I recently joined a project where progress was stalled because my collaborators were having trouble downloading their data from IMG, where it had been shared with them.</p>
+<p>IMG is a great resource for microbial genomics data. If you&rsquo;re looking to work with a large amount of data, downloading directly through their interface may not be possible. Download times are long, and data files are too big to be reasonably stored on a personal machine.</p>
+<p>JGI&rsquo;s assembled a unified <a href="https://genome.jgi.doe.gov/portal/" target="_blank" rel="noopener">genome portal</a>
+ for data downloads. To download large amounts of data directly to a storage server, there are two options as <a href="https://genome.jgi.doe.gov/portal/help/download.jsf" target="_blank" rel="noopener">outlined by IMG</a>
+, are either to use a <a href="https://www.globus.org/" target="_blank" rel="noopener">Globus</a>
+ endpoint for downloading data, or  their API. Globus requires a subscription, which we do not have at our institution. After a little bit of playing around and leaning into IMG&rsquo;s instructions, I was able to get everything we needed using the API.</p>
+<p>All of the information required for using their API is available through their <a href="https://genome.jgi.doe.gov/portal/help/download.jsf#/api" target="_blank" rel="noopener">API instructions</a>
 .</p>
 <p>More soon on how we solved this&hellip;</p>
 

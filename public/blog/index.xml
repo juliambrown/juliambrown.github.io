@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How do I get the data: IMG</title>
+      <title>Getting data: IMG</title>
       <link>https://juliambrown.github.io/blog/img_api/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://juliambrown.github.io/blog/img_api/</guid>
-      <description>IMG is a great resource for microbial genomics data. To do a big metaanalysis, or even to download metagenomic reads, it&amp;rsquo;s often necessary to work outside of their web user interface. Download times are long, and data files are too big to be reasonably stored on a personal machine.
-Options, as outlined by IMG, are either using a Globus endpoint for downloading data, or using the API. Globus requires a subscription, which we do not have at our institution.</description>
+      <description>I recently joined a project where progress was stalled because my collaborators were having trouble downloading their data from IMG, where it had been shared with them.
+IMG is a great resource for microbial genomics data. If you&amp;rsquo;re looking to work with a large amount of data, downloading directly through their interface may not be possible. Download times are long, and data files are too big to be reasonably stored on a personal machine.</description>
     </item>
     
     <item>
