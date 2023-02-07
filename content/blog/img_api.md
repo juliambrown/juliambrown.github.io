@@ -6,10 +6,10 @@ description: "Wrangling IMG's API"
 thumbnail: "/IMG_0625.jpeg"
 keywords: ['DNA','Bioinformatics', 'Data acquisition']
 type: blog
-draft: false
+draft: true
 ---
 
-I recently joined a project where progress was stalled because my collaborators were having trouble downloading their data from IMG, where it had been shared with them. 
+I recently joined a project where progress was stalled because my collaborators were having trouble downloading their data from IMG, where it had been shared with them.
 
 IMG is a great resource for microbial genomics data. If you're looking to work with a large amount of data, downloading directly through their interface may not be possible. Download times are long, and data files are too big to be reasonably stored on a personal machine.
 

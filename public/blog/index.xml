@@ -5,15 +5,15 @@
     <link>https://juliambrown.github.io/blog/</link>
     <description>Recent content in Blogs on juliambrown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juliambrown.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting data: IMG</title>
-      <link>https://juliambrown.github.io/blog/img_api/</link>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Boarding Atlantis</title>
+      <link>https://juliambrown.github.io/blog/to_sea/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://juliambrown.github.io/blog/img_api/</guid>
-      <description>I recently joined a project where progress was stalled because my collaborators were having trouble downloading their data from IMG, where it had been shared with them.
-IMG is a great resource for microbial genomics data. If you&amp;rsquo;re looking to work with a large amount of data, downloading directly through their interface may not be possible. Download times are long, and data files are too big to be reasonably stored on a personal machine.</description>
+      <guid>https://juliambrown.github.io/blog/to_sea/</guid>
+      <description>About a year ago, my friend and collaborator, Maria, approached me about joining a research cruise she was leading to the Eastern Tropical North Pacific oxygen minimum zone. She was leading a very comprehensive project looking at microbe-driven biogeochemical processes, and wanted to add a virus component to the project. She was wondering if I could be the person to make that happen.
+I&amp;rsquo;d recently returned to work after maternity leave, and with a infant at home, my immediate reaction was, &amp;ldquo;I can&amp;rsquo;t.</description>
     </item>
     
     <item>

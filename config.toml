@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
       introSubtitle = "Bioinformatics-based approaches to uncovering the potential of microbes and viruses"
       introPhoto = "/IMG_1451.jpeg"
       logo = "/little_myo.png"
-    
+
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -30,7 +30,7 @@ DefaultContentLanguageInSubdir = true
         name = "Research"
         url = "/pages/research"
         weight = 3
-            
+
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
@@ -41,7 +41,7 @@ DefaultContentLanguageInSubdir = true
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
-  
+
   # Enable search in header
   enableSearch = true
 
@@ -105,14 +105,14 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "googlescholar"
     url = "https://scholar.google.com/citations?user=rGsro4wAAAAJ&hl=en"
-  #[[params.homepage.social.icons]]
-  #  website = "instagram"
-  #  url = "https://instagram.com"
+  [[params.homepage.social.icons]]
+    website = "instagram"
+    url = "https://www.instagram.com/drjuliabrown/"
 
 [[menu.main]]
   name = "About"
   url = "/about"
-  
+
 
 [build]
   writeStats = true
