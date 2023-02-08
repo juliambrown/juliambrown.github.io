@@ -11,7 +11,7 @@ draft: false
 
 In some ways, I'm feeling as you would if you were to show up early to a good friend's wedding. You know that there are a lot of logistics to coordinate and small crises to solve. You want to help, and to be a part of things, but you don't really have a good picture of everything that needs to happen, and so often the best thing to do is to stay out of the way.
 
-There's going to be a lot of cool science planned for this expedition. People are using labelled chemicals to track how they move and are transformed within the marine ecosystem. People are running experiments in refrigerated spaces to simulate the deep, cold ocean. Others are going one step further and running experiments remotely at depth within experimental chambers tied to moorings.
+There's a lot of cool science planned for this expedition. People are using labelled chemicals to track how they move and are transformed within the marine ecosystem. People are running experiments in refrigerated spaces to simulate the deep, cold ocean. Others are going one step further and running experiments remotely at depth within experimental chambers tied to moorings.
 
 You can imagine that there are a lot of moving parts. Pumps and instruments need to work, reagents need to arrive, to clear customs. Entire laboratory spaces, housed in shipping containers, need to be transported   and loaded onto the vessel.
 
