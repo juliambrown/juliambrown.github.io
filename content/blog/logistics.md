@@ -9,7 +9,7 @@ type: blog
 draft: false
 ---
 
-I'm feeling as you would if you were to show up early to a good friend's wedding. You know that there are a lot of logistics to coordinate and small crises to solve. You want to help, and to be a part of things, but you don't really have a good picture of everything that needs to happen, and so often the best thing to do is to stay out of the way.
+I'm feeling as you would if you were to show up early to a good friend's wedding. You know that there are a lot of logistics to coordinate and small crises to solve. You want to help, and to be a part of things, but you don't really have a good picture of everything that needs to happen, and so the best thing to do is to stay out of the way.
 
 There's a lot of cool science planned for this expedition. People are using labelled chemicals to track how they move and are transformed within the marine ecosystem. People are running experiments in refrigerated spaces to simulate the deep, cold ocean. Others are going one step further and running experiments remotely at depth within experimental chambers tied to moorings.
 
