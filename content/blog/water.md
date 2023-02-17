@@ -6,7 +6,7 @@ description: "a long day"
 thumbnail: "/samples.jpg"
 keywords: ['at sea', 'research expedition']
 type: blog
-draft: false
+draft: true
 ---
 
 It's 3 in the morning on Friday, February 17th, we've been at sea for 10 days, and I can finally, happily say that I have samples in the freezer.
