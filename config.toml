@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Dr. Julia M. Brown"
       introSubtitle = "Bioinformatics-based approaches to uncovering the potential of microbes and viruses"
-      introPhoto = "/IMG_1451.jpeg"
+      introPhoto = "/IMG_2178.jpeg"
       logo = "/little_myo.png"
 
     [[languages.en.menu.main]]
