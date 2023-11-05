@@ -6,7 +6,7 @@ description: "a long day"
 thumbnail: "/samples.jpg"
 keywords: ['at sea', 'research expedition']
 type: blog
-draft: true
+draft: false
 ---
 
 It's 3 in the morning on Friday, February 17th, we've been at sea for 10 days, and I can finally, happily say that I have samples in the freezer.
@@ -15,8 +15,8 @@ It's been a surprisingly unruly journey to this point. I told you about logistic
 
 We reached our target site, a location not too far off of the coast of Mexico, at 17:00 Wednesday evening. The first act was to cast out the CTD for a water column profile to check to see if we'd, indeed, reached the ENTP Oxygen Minimum Zone. Sure enough, at around 40 meters below the surface our oxygen sensors showed oxygen levels below the limits of detection, confirming that we were floating on top of a watermass effectively devoid of oxygen. Welcome to station MX1.
 
-The water sampling fest began that evening, but I did not get on the schedule, allowing me to get a good night sleep before what's turned into a very long day. My chance for water didn't come until 17:00 the following day, much later than expected but very welcome when it finally came. This began a 12 hour shift, of which I've still got 2 to go.
+The water sampling fest began that evening, but my chance for water didn't come until 17:00 the following day, much later than expected but very welcome when it finally came. This began a 12 hour shift, of which I've still got 2 to go.
 
-My insomnia training as a mom of two littles has prepared me well for tonight as I'm feeling OK given that I've been up for 22 hours (please don't let this rambling post concern you, I'm doing great!). But really, this is some of the fun of field work at sea. Far away from the sacred schedule, living in your lab, labbing where you live. You're here to do science, whenever it happens. It'll be breakfast then bed for me, which sounds great right now.  
+My insomnia training as a mom of two littles has prepared me well for tonight as I'm feeling OK given that I've been up for 22 hours. But really, this is some of the fun of field work at sea. You're here to do science, whenever it happens. Two more hours until breakfast then bed for me, which sounds great right now.  
 
-By the way, if you'd like an expedition-sanctioned version of events, I encourage you to check out the [MicroPro blog](https://micropro2023.wordpress.com/).
+If you'd like an expedition-sanctioned version of events, I encourage you to check out the [MicroPro blog](https://micropro2023.wordpress.com/).
