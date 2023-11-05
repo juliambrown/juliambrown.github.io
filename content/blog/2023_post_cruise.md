@@ -21,6 +21,8 @@ What's happened since? So nice of you to ask. Here's a round up of some public f
 
 * I co-presented a [Cafe Scientifique public lecture](https://www.youtube.com/watch?v=OuMbRV_2I3A) with Catherine Mitchell on some of the early work we've done pairing microbial genomics data with satellite data
 
+* I co-instructed a Data Carpentry workshop focused on using [python for Ecology](https://smcclatchy.github.io/2023-06-05-colby/) at Colby College
+
 * Later that summer, I presented a Ocean Hack Week tutorial on [Meta-omics Analyses for Ocean Science](https://oceanhackweek.org/ohw23/tutorials/03-Thu/OHW_omics_lesson.html) 
 
 On the back side, lots of science and adventure is cooking. More on that later.  
