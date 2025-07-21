@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on juliambrown</title>
-    <link>https://juliambrown.github.io/en/tags/team/</link>
+    <link>http://localhost:1313/en/tags/team/</link>
     <description>Recent content in Team on juliambrown</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://juliambrown.github.io/en/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join us!</title>
-      <link>https://juliambrown.github.io/en/features/you/</link>
+      <link>http://localhost:1313/en/features/you/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://juliambrown.github.io/en/features/you/</guid>
+      <guid>http://localhost:1313/en/features/you/</guid>
       <description>&lt;p&gt;Brown will be recruiting an experienced research associate or post doc to join the team within the next 6 months for a two year position investigating marine viruses in low oxygen systems and other areas of marine viral ecology and genomics. If you are interested please email julia [at] bigelow [dot] org.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join us!</title>
-      <link>https://juliambrown.github.io/en/people/you/</link>
+      <link>http://localhost:1313/en/people/you/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://juliambrown.github.io/en/people/you/</guid>
+      <guid>http://localhost:1313/en/people/you/</guid>
       <description>&lt;p&gt;Brown will be recruiting an experienced research associate or post doc to join the team within the next 6 months for a two year position investigating marine viruses in low oxygen systems and other areas of marine viral ecology and genomics. If you are interested please email julia [at] bigelow [dot] org.&lt;/p&gt;</description>
     </item>
   </channel>
