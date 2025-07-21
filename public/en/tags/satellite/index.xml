@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satellite on juliambrown</title>
+    <link>https://juliambrown.github.io/en/tags/satellite/</link>
+    <description>Recent content in Satellite on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juliambrown.github.io/en/tags/satellite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelling Ocean Microbes using Satellites</title>
+      <link>https://juliambrown.github.io/en/features/microbes_from_space/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/features/microbes_from_space/</guid>
+      <description>&lt;p&gt;Satellite oceanography has revolutionized our ability to study phytoplankton communities and organic matter in the oceans across large spatial scales and time, yet there remains a gap in the ability to monitor and predict the diversity of the microbial communities that underpin ocean food webs using satellite observational tools. This matters because experimental and observational studies indicate that the source, quality, and quantity of organic matter influences taxonomic and functional diversity changes of microbial communities, which in turn affects biogeochemical cycling, so the strength of this correlation needs to be better understood for modeling responses to climate change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modelling Ocean Microbes using Satellites</title>
+      <link>https://juliambrown.github.io/en/projects/microbes_from_space/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/projects/microbes_from_space/</guid>
+      <description>&lt;p&gt;Satellite oceanography has revolutionized our ability to study phytoplankton communities and organic matter in the oceans across large spatial scales and time, yet there remains a gap in the ability to monitor and predict the diversity of the microbial communities that underpin ocean food webs using satellite observational tools. This matters because experimental and observational studies indicate that the source, quality, and quantity of organic matter influences taxonomic and functional diversity changes of microbial communities, which in turn affects biogeochemical cycling, so the strength of this correlation needs to be better understood for modeling responses to climate change.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narrative on juliambrown</title>
+    <link>http://localhost:1313/en/tags/narrative/</link>
+    <description>Recent content in Narrative on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/narrative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tim D&#39;Angelo</title>
+      <link>http://localhost:1313/en/people/tim/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/people/tim/</guid>
+      <description>&lt;p&gt;Tim D&amp;rsquo;Angelo is a senior research associate at Bigelow with deep experience in field, lab and bioinformatics techniques for the study of environmental microbiology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

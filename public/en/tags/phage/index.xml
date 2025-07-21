@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phage on juliambrown</title>
+    <link>https://juliambrown.github.io/en/tags/phage/</link>
+    <description>Recent content in Phage on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juliambrown.github.io/en/tags/phage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering Viral Roles in Oxygen Minimum Zones</title>
+      <link>https://juliambrown.github.io/en/projects/omz_vir/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/projects/omz_vir/</guid>
+      <description>&lt;p&gt;Warmer ocean temperatures are leading to expanding oxygen loss within Earth’s oceans, negatively impacting global fisheries. Microbial processes exacerbate ocean deoxygenation and in low oxygen conditions facilitate the production of gases, including nitrous oxide and methane, that can have feedbacks on atmospheric and ocean chemistry. Despite the significant role of microbes, little is known about controls on microbial processes within oxygen-depleted marine waters, including the impact of viral infection. Such information is critical to accurately forecast the impact of ocean deoxygenation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

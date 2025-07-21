@@ -11,25 +11,25 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Dr. Julia M. Brown"
-      introSubtitle = "Bioinformatics-based approaches to uncovering the potential of microbes and viruses"
-      introPhoto = "/IMG_2178.jpeg"
+      introTitle = "Blue Bioinformatics"
+      introSubtitle = "Disentangling Virus-Microbe-Environment Interactions"
+      introPhoto = "/ETNP_cloudy_sunset.jpeg"
       logo = "/little_myo.png"
 
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
-        weight = 1
+        weight = 3
 
     [[languages.en.menu.main]]
-        name = "About"
-        url = "pages/about"
+        name = "Team"
+        url = "people"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "Research"
-        url = "/pages/research"
-        weight = 3
+        url = "projects"
+        weight = 1
 
     [[languages.en.menu.main]]
         name = "Tags"
@@ -60,7 +60,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Julia M Brown · All rights reserved"
+  copyright = "Copyright © 2025 - Julia M Brown · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -69,7 +69,7 @@ DefaultContentLanguageInSubdir = true
   ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
-  frontBundle = "blog"
+  frontBundle = "features"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
@@ -88,14 +88,15 @@ DefaultContentLanguageInSubdir = true
   # This setting can also be in page's markdown file
   hidePageThumbnail = false
 
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
   description = ""
 
-  [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/julesinboots"
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://www.linkedin.com/in/julia-brown-a718b49/"
@@ -109,9 +110,7 @@ DefaultContentLanguageInSubdir = true
     website = "instagram"
     url = "https://www.instagram.com/drjuliabrown/"
 
-[[menu.main]]
-  name = "About"
-  url = "/about"
+
 
 
 [build]

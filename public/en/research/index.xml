@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on juliambrown</title>
+    <link>http://localhost:1313/en/research/</link>
+    <description>Recent content in Researches on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelling Ocean Microbes from Satellites</title>
+      <link>http://localhost:1313/en/research/microbes_from_space/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/research/microbes_from_space/</guid>
+      <description>&lt;p&gt;Microbes from Space&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/en/research/research/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/research/research/</guid>
+      <description>&lt;p&gt;When you step into the ocean on planet Earth, you are stepping into an ocean of viruses. Roughly 50 million viruses are suspended within every teaspoon of seawater. The vast majority of these viruses infect microscopic organisms. Their complex relationship with hosts, ecosystems and biogeochemistry make them one of the least understood components of environments around the globe.&lt;/p&gt;&#xA;&lt;p&gt;The image at the top of this page is a microscopy slide created from half a teaspoon of seawater. In this image, the larger dots are bacteria. The smaller dots, resembling distant stars within the frame, are viruses. There about 10 times as many viruses in this image as bacteria, though one may note that there are lot of both.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on juliambrown</title>
+    <link>https://juliambrown.github.io/en/tags/</link>
+    <description>Recent content in Tags on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juliambrown.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://juliambrown.github.io/en/tags/research/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>https://juliambrown.github.io/en/tags/team/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OMZ</title>
+      <link>https://juliambrown.github.io/en/tags/omz/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/omz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phage</title>
+      <link>https://juliambrown.github.io/en/tags/phage/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/phage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RNA Virus</title>
+      <link>https://juliambrown.github.io/en/tags/rna-virus/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/rna-virus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Satellite</title>
+      <link>https://juliambrown.github.io/en/tags/satellite/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/satellite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virus</title>
+      <link>https://juliambrown.github.io/en/tags/virus/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/tags/virus/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

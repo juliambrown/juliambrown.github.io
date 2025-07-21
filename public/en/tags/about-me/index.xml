@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on juliambrown</title>
+    <link>http://localhost:1313/en/tags/about-me/</link>
+    <description>Recent content in About Me on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/people/juliambrown/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/people/juliambrown/</guid>
+      <description>&lt;p&gt;Hello! I am a Senior Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using integrative informatics to merge information on microbial and viral diversity activity with environmental parameters.&lt;/p&gt;&#xA;&lt;p&gt;I earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, I pivoted from the traditional academic route to hone my computational experience as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine, before moving back into a Research Scientist role in 2022.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

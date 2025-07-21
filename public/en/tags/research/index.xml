@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on juliambrown</title>
+    <link>https://juliambrown.github.io/en/tags/research/</link>
+    <description>Recent content in Research on juliambrown</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juliambrown.github.io/en/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approach</title>
+      <link>https://juliambrown.github.io/en/projects/research/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/projects/research/</guid>
+      <description>&lt;p&gt;When you step into the ocean on planet Earth, you are stepping into an ocean of viruses. Roughly 50 million viruses are suspended within every teaspoon of seawater. The vast majority of these viruses infect microscopic organisms. Their complex relationship with hosts, ecosystems and biogeochemistry make them one of the least understood components of environments around the globe.&lt;/p&gt;&#xA;&lt;p&gt;The image at the top of this page is a microscopy slide created from half a teaspoon of seawater. In this image, the larger dots are bacteria. The smaller dots are viruses. There about 10 times as many viruses in this image as bacteria, though one may note that there are lot of both.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modelling Ocean Microbes using Satellites</title>
+      <link>https://juliambrown.github.io/en/features/microbes_from_space/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/features/microbes_from_space/</guid>
+      <description>&lt;p&gt;Satellite oceanography has revolutionized our ability to study phytoplankton communities and organic matter in the oceans across large spatial scales and time, yet there remains a gap in the ability to monitor and predict the diversity of the microbial communities that underpin ocean food webs using satellite observational tools. This matters because experimental and observational studies indicate that the source, quality, and quantity of organic matter influences taxonomic and functional diversity changes of microbial communities, which in turn affects biogeochemical cycling, so the strength of this correlation needs to be better understood for modeling responses to climate change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modelling Ocean Microbes using Satellites</title>
+      <link>https://juliambrown.github.io/en/projects/microbes_from_space/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/projects/microbes_from_space/</guid>
+      <description>&lt;p&gt;Satellite oceanography has revolutionized our ability to study phytoplankton communities and organic matter in the oceans across large spatial scales and time, yet there remains a gap in the ability to monitor and predict the diversity of the microbial communities that underpin ocean food webs using satellite observational tools. This matters because experimental and observational studies indicate that the source, quality, and quantity of organic matter influences taxonomic and functional diversity changes of microbial communities, which in turn affects biogeochemical cycling, so the strength of this correlation needs to be better understood for modeling responses to climate change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uncovering Viral Roles in Oxygen Minimum Zones</title>
+      <link>https://juliambrown.github.io/en/projects/omz_vir/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://juliambrown.github.io/en/projects/omz_vir/</guid>
+      <description>&lt;p&gt;Warmer ocean temperatures are leading to expanding oxygen loss within Earth’s oceans, negatively impacting global fisheries. Microbial processes exacerbate ocean deoxygenation and in low oxygen conditions facilitate the production of gases, including nitrous oxide and methane, that can have feedbacks on atmospheric and ocean chemistry. Despite the significant role of microbes, little is known about controls on microbial processes within oxygen-depleted marine waters, including the impact of viral infection. Such information is critical to accurately forecast the impact of ocean deoxygenation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
