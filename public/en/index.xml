@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>juliambrown</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://juliambrown.github.io/en/</link>
     <description>Recent content on juliambrown</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliambrown.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Begin Again</title>
-      <link>http://localhost:1313/en/features/begin_again/</link>
+      <link>https://juliambrown.github.io/en/features/begin_again/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/features/begin_again/</guid>
+      <guid>https://juliambrown.github.io/en/features/begin_again/</guid>
       <description>&lt;p&gt;After a two year job search, I am excited to share that I&amp;rsquo;ve begun a new position at Bigelow Laboratory for Ocean Sciences as a Senior Research Scientist where I am starting a new research program and lab group. Research in my lab will be focused on integrative, big data approaches to understanding (mostly) marine microbial and viral ecology.&lt;/p&gt;&#xA;&lt;p&gt;I am transitioning this website from a personal professional page to a lab website. Checkout the &amp;ldquo;Research&amp;rdquo; tab for an overview of ongoing research projects in the lab. Checkout the &amp;ldquo;Team&amp;rdquo; tag to learn about lab team members and opportunities to join my group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Julia Brown</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>https://juliambrown.github.io/en/about/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
+      <guid>https://juliambrown.github.io/en/about/</guid>
       <description>&lt;p&gt;Hello! I am a Senior Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using integrative informatics to merge information on microbial and viral diversity activity with environmental parameters.&lt;/p&gt;&#xA;&lt;p&gt;I earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, I pivoted from the traditional academic route to hone my computational experience as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine, before moving back into a Research Scientist role in 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Julia Brown</title>
-      <link>http://localhost:1313/en/people/juliambrown/</link>
+      <link>https://juliambrown.github.io/en/people/juliambrown/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/people/juliambrown/</guid>
+      <guid>https://juliambrown.github.io/en/people/juliambrown/</guid>
       <description>&lt;p&gt;Julia (who also goes by &amp;ldquo;Julie&amp;rdquo;) is a Senior Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using integrative informatics to merge information on microbial and viral diversity activity with environmental parameters.&lt;/p&gt;&#xA;&lt;p&gt;Julia earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, she pivoted from the traditional academic route to hone her computational experience as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine, before moving back into a Research Scientist role in 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Approach</title>
-      <link>http://localhost:1313/en/projects/research/</link>
+      <link>https://juliambrown.github.io/en/features/research/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/research/</guid>
+      <guid>https://juliambrown.github.io/en/features/research/</guid>
       <description>&lt;p&gt;When you step into the ocean on planet Earth, you are stepping into an ocean of viruses. Roughly 50 million viruses are suspended within every teaspoon of seawater. The vast majority of these viruses infect microscopic organisms. Their complex relationship with hosts, ecosystems and biogeochemistry make them one of the least understood components of environments around the globe.&lt;/p&gt;&#xA;&lt;p&gt;The image at the top of this page is a microscopy slide created from half a teaspoon of seawater. In this image, the larger dots are bacteria. The smaller dots are viruses. There about 10 times as many viruses in this image as bacteria, though one may note that there are lot of both.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join us!</title>
-      <link>http://localhost:1313/en/features/you/</link>
+      <link>https://juliambrown.github.io/en/features/you/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/features/you/</guid>
+      <guid>https://juliambrown.github.io/en/features/you/</guid>
       <description>&lt;p&gt;Brown will be recruiting an experienced research associate or post doc to join the team within the next 6 months for a two year position investigating marine viruses in low oxygen systems and other areas of marine viral ecology and genomics. If you are interested please email julia [at] bigelow [dot] org.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join us!</title>
-      <link>http://localhost:1313/en/people/you/</link>
+      <link>https://juliambrown.github.io/en/people/you/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/people/you/</guid>
+      <guid>https://juliambrown.github.io/en/people/you/</guid>
       <description>&lt;p&gt;Brown will be recruiting an experienced research associate or post doc to join the team within the next 6 months for a two year position investigating marine viruses in low oxygen systems and other areas of marine viral ecology and genomics. If you are interested please email julia [at] bigelow [dot] org.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tim D&#39;Angelo</title>
-      <link>http://localhost:1313/en/people/tim/</link>
+      <link>https://juliambrown.github.io/en/people/tim/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/people/tim/</guid>
+      <guid>https://juliambrown.github.io/en/people/tim/</guid>
       <description>&lt;p&gt;Tim D&amp;rsquo;Angelo is a senior research associate at Bigelow with deep experience in field, lab and bioinformatics techniques for the study of environmental microbiology.&lt;/p&gt;&#xA;&lt;p&gt;For more information on Tim&amp;rsquo;s research and background, check out his &lt;a href=&#34;https://www.bigelow.org/about/people/tdangelo.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bigelow staff page&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modelling Ocean Microbes using Satellites</title>
-      <link>http://localhost:1313/en/features/microbes_from_space/</link>
+      <link>https://juliambrown.github.io/en/features/microbes_from_space/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/features/microbes_from_space/</guid>
+      <guid>https://juliambrown.github.io/en/features/microbes_from_space/</guid>
       <description>&lt;p&gt;Satellite oceanography has revolutionized our ability to study phytoplankton communities and organic matter in the oceans across large spatial scales and time, yet there remains a gap in the ability to monitor and predict the diversity of the microbial communities that underpin ocean food webs using satellite observational tools. This matters because experimental and observational studies indicate that the source, quality, and quantity of organic matter influences taxonomic and functional diversity changes of microbial communities, which in turn affects biogeochemical cycling, so the strength of this correlation needs to be better understood for modeling responses to climate change.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modelling Ocean Microbes using Satellites</title>
-      <link>http://localhost:1313/en/projects/microbes_from_space/</link>
+      <link>https://juliambrown.github.io/en/projects/microbes_from_space/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/microbes_from_space/</guid>
+      <guid>https://juliambrown.github.io/en/projects/microbes_from_space/</guid>
       <description>&lt;p&gt;Satellite oceanography has revolutionized our ability to study phytoplankton communities and organic matter in the oceans across large spatial scales and time, yet there remains a gap in the ability to monitor and predict the diversity of the microbial communities that underpin ocean food webs using satellite observational tools. This matters because experimental and observational studies indicate that the source, quality, and quantity of organic matter influences taxonomic and functional diversity changes of microbial communities, which in turn affects biogeochemical cycling, so the strength of this correlation needs to be better understood for modeling responses to climate change.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uncovering Viral Roles in Oxygen Minimum Zones</title>
-      <link>http://localhost:1313/en/projects/omz_vir/</link>
+      <link>https://juliambrown.github.io/en/projects/omz_vir/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/omz_vir/</guid>
+      <guid>https://juliambrown.github.io/en/projects/omz_vir/</guid>
       <description>&lt;p&gt;Warmer ocean temperatures are leading to expanding oxygen loss within Earth’s oceans, negatively impacting global fisheries. Microbial processes exacerbate ocean deoxygenation and in low oxygen conditions facilitate the production of gases, including nitrous oxide and methane, that can have feedbacks on atmospheric and ocean chemistry. Despite the significant role of microbes, little is known about controls on microbial processes within oxygen-depleted marine waters, including the impact of viral infection. Such information is critical to accurately forecast the impact of ocean deoxygenation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flowing</title>
-      <link>http://localhost:1313/en/blog/2023_post_cruise/</link>
+      <link>https://juliambrown.github.io/en/blog/2023_post_cruise/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/2023_post_cruise/</guid>
+      <guid>https://juliambrown.github.io/en/blog/2023_post_cruise/</guid>
       <description>&lt;p&gt;Best laid plans of keeping up a blog have eluded me, as they often do. When the sampling ramped up on the ETNP cruise, leisure time for pet projects, and reflection all but disappeared.  It was a good cruise, and I came back from the field with a great new network of collaborators and friends, and more samples than anticipated.&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s happened since? So nice of you to ask. Here&amp;rsquo;s a round up of some public facing activities:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Station 1</title>
-      <link>http://localhost:1313/en/blog/water/</link>
+      <link>https://juliambrown.github.io/en/blog/water/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/water/</guid>
+      <guid>https://juliambrown.github.io/en/blog/water/</guid>
       <description>&lt;p&gt;At 5 in the morning on Friday, February 17th, after 10 days sea, and I put my first samples in the freezer.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a surprisingly unruly journey to this point. I told you about logistics in the last post, but since then we encountered really active, windy seas and a bout of norovirus that raged through the science party. The combination was intense, and really not very fun. After about 4 days of transit the virus had run its course, the seas turned calm and the science party was able to regain our sea legs, stomachs and enthusiasm for the trip.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Logistics</title>
-      <link>http://localhost:1313/en/blog/logistics/</link>
+      <link>https://juliambrown.github.io/en/blog/logistics/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/logistics/</guid>
+      <guid>https://juliambrown.github.io/en/blog/logistics/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m feeling as you would if you were to show up early to a good friend&amp;rsquo;s wedding. You know that there are a lot of logistics to coordinate and small crises to solve. You want to help, and to be a part of things, but you don&amp;rsquo;t really have a good picture of everything that needs to happen, and so the best thing to do is to stay out of the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boarding Atlantis</title>
-      <link>http://localhost:1313/en/blog/to_sea/</link>
+      <link>https://juliambrown.github.io/en/blog/to_sea/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/to_sea/</guid>
+      <guid>https://juliambrown.github.io/en/blog/to_sea/</guid>
       <description>&lt;p&gt;About a year ago, my friend and collaborator, Maria, approached me about joining a research cruise she was leading to the Eastern Tropical North Pacific oxygen minimum zone. She was leading a very comprehensive project looking at microbe-driven biogeochemical processes, and wanted to add a virus component to the project. She was wondering if I could be the person to make that happen.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d recently returned to work after maternity leave, and with a infant at home, my immediate reaction was, &amp;ldquo;I can&amp;rsquo;t.&amp;rdquo; But after sitting on the idea, and thinking about the science that could be had on such an adventure, my thinking slowly turned from &amp;ldquo;can&amp;rsquo;t&amp;rdquo; to &amp;ldquo;why not?&amp;rdquo;. I was in the process of applying for a Research Scientist position at my institution at the time, and the promotion would come with a small startup that could cover my salary. Maria said she could pay for the needed supplies if I could just get myself there. With this cruise, and the data Maria planned to collect, I also saw an opportunity to carry out some really cool and comprehensive studies on the activity of viruses in oxygen minimum zones by collecting a relatively small amount of additional data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/en/blog/my-first-post/</link>
+      <link>https://juliambrown.github.io/en/blog/my-first-post/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/my-first-post/</guid>
+      <guid>https://juliambrown.github.io/en/blog/my-first-post/</guid>
       <description>&lt;p&gt;Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.&lt;/p&gt;&#xA;&lt;p&gt;Let me introduce myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two under 5.&lt;/p&gt;&#xA;&lt;p&gt;The image for this post is a photo I took in March, 2021 at my favorite hiking spot. I try to visit this spot at least once a month regardless of the season, and use my time in the woods to reorganize my thoughts. I hope to use this site in a similar way, revisiting it regularly to share what I&amp;rsquo;m excited about and reflect on how things are going.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on juliambrown</title>
-    <link>http://localhost:1313/en/blog/</link>
+    <link>https://juliambrown.github.io/en/blog/</link>
     <description>Recent content in Blogs on juliambrown</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliambrown.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flowing</title>
-      <link>http://localhost:1313/en/blog/2023_post_cruise/</link>
+      <link>https://juliambrown.github.io/en/blog/2023_post_cruise/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/2023_post_cruise/</guid>
+      <guid>https://juliambrown.github.io/en/blog/2023_post_cruise/</guid>
       <description>&lt;p&gt;Best laid plans of keeping up a blog have eluded me, as they often do. When the sampling ramped up on the ETNP cruise, leisure time for pet projects, and reflection all but disappeared.  It was a good cruise, and I came back from the field with a great new network of collaborators and friends, and more samples than anticipated.&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s happened since? So nice of you to ask. Here&amp;rsquo;s a round up of some public facing activities:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Station 1</title>
-      <link>http://localhost:1313/en/blog/water/</link>
+      <link>https://juliambrown.github.io/en/blog/water/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/water/</guid>
+      <guid>https://juliambrown.github.io/en/blog/water/</guid>
       <description>&lt;p&gt;At 5 in the morning on Friday, February 17th, after 10 days sea, and I put my first samples in the freezer.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a surprisingly unruly journey to this point. I told you about logistics in the last post, but since then we encountered really active, windy seas and a bout of norovirus that raged through the science party. The combination was intense, and really not very fun. After about 4 days of transit the virus had run its course, the seas turned calm and the science party was able to regain our sea legs, stomachs and enthusiasm for the trip.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Logistics</title>
-      <link>http://localhost:1313/en/blog/logistics/</link>
+      <link>https://juliambrown.github.io/en/blog/logistics/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/logistics/</guid>
+      <guid>https://juliambrown.github.io/en/blog/logistics/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m feeling as you would if you were to show up early to a good friend&amp;rsquo;s wedding. You know that there are a lot of logistics to coordinate and small crises to solve. You want to help, and to be a part of things, but you don&amp;rsquo;t really have a good picture of everything that needs to happen, and so the best thing to do is to stay out of the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boarding Atlantis</title>
-      <link>http://localhost:1313/en/blog/to_sea/</link>
+      <link>https://juliambrown.github.io/en/blog/to_sea/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/to_sea/</guid>
+      <guid>https://juliambrown.github.io/en/blog/to_sea/</guid>
       <description>&lt;p&gt;About a year ago, my friend and collaborator, Maria, approached me about joining a research cruise she was leading to the Eastern Tropical North Pacific oxygen minimum zone. She was leading a very comprehensive project looking at microbe-driven biogeochemical processes, and wanted to add a virus component to the project. She was wondering if I could be the person to make that happen.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d recently returned to work after maternity leave, and with a infant at home, my immediate reaction was, &amp;ldquo;I can&amp;rsquo;t.&amp;rdquo; But after sitting on the idea, and thinking about the science that could be had on such an adventure, my thinking slowly turned from &amp;ldquo;can&amp;rsquo;t&amp;rdquo; to &amp;ldquo;why not?&amp;rdquo;. I was in the process of applying for a Research Scientist position at my institution at the time, and the promotion would come with a small startup that could cover my salary. Maria said she could pay for the needed supplies if I could just get myself there. With this cruise, and the data Maria planned to collect, I also saw an opportunity to carry out some really cool and comprehensive studies on the activity of viruses in oxygen minimum zones by collecting a relatively small amount of additional data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/en/blog/my-first-post/</link>
+      <link>https://juliambrown.github.io/en/blog/my-first-post/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/my-first-post/</guid>
+      <guid>https://juliambrown.github.io/en/blog/my-first-post/</guid>
       <description>&lt;p&gt;Welcome to my website, I&amp;rsquo;m so happy you&amp;rsquo;ve stopped by to visit.&lt;/p&gt;&#xA;&lt;p&gt;Let me introduce myself. I am a research scientist at Bigelow Laboratory for Ocean Sciences in Maine, USA and a mother of two under 5.&lt;/p&gt;&#xA;&lt;p&gt;The image for this post is a photo I took in March, 2021 at my favorite hiking spot. I try to visit this spot at least once a month regardless of the season, and use my time in the woods to reorganize my thoughts. I hope to use this site in a similar way, revisiting it regularly to share what I&amp;rsquo;m excited about and reflect on how things are going.&lt;/p&gt;</description>
     </item>
   </channel>

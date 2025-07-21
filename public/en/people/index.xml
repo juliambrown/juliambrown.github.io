@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on juliambrown</title>
-    <link>http://localhost:1313/en/people/</link>
+    <link>https://juliambrown.github.io/en/people/</link>
     <description>Recent content in People on juliambrown</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/people/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliambrown.github.io/en/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Julia Brown</title>
-      <link>http://localhost:1313/en/people/juliambrown/</link>
+      <link>https://juliambrown.github.io/en/people/juliambrown/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/people/juliambrown/</guid>
+      <guid>https://juliambrown.github.io/en/people/juliambrown/</guid>
       <description>&lt;p&gt;Julia (who also goes by &amp;ldquo;Julie&amp;rdquo;) is a Senior Research Scientist at Bigelow Laboratory for Ocean Sciences focused on understanding the roles of microbes and viruses using integrative informatics to merge information on microbial and viral diversity activity with environmental parameters.&lt;/p&gt;&#xA;&lt;p&gt;Julia earned a PhD in Microbiology from Cornell, then held a year-long postdoctoral position at Albert Einstein College of Medicine. From there, she pivoted from the traditional academic route to hone her computational experience as a Bioinformatician at the Single Cell Genomics Center at Bigelow Laboratory for Ocean Sciences in East Boothbay, Maine, before moving back into a Research Scientist role in 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join us!</title>
-      <link>http://localhost:1313/en/people/you/</link>
+      <link>https://juliambrown.github.io/en/people/you/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/people/you/</guid>
+      <guid>https://juliambrown.github.io/en/people/you/</guid>
       <description>&lt;p&gt;Brown will be recruiting an experienced research associate or post doc to join the team within the next 6 months for a two year position investigating marine viruses in low oxygen systems and other areas of marine viral ecology and genomics. If you are interested please email julia [at] bigelow [dot] org.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tim D&#39;Angelo</title>
-      <link>http://localhost:1313/en/people/tim/</link>
+      <link>https://juliambrown.github.io/en/people/tim/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/people/tim/</guid>
+      <guid>https://juliambrown.github.io/en/people/tim/</guid>
       <description>&lt;p&gt;Tim D&amp;rsquo;Angelo is a senior research associate at Bigelow with deep experience in field, lab and bioinformatics techniques for the study of environmental microbiology.&lt;/p&gt;&#xA;&lt;p&gt;For more information on Tim&amp;rsquo;s research and background, check out his &lt;a href=&#34;https://www.bigelow.org/about/people/tdangelo.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bigelow staff page&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
     </item>
   </channel>
