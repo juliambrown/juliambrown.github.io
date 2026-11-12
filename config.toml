@@ -19,12 +19,17 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
-        weight = 3
+        weight = 4
 
     [[languages.en.menu.main]]
         name = "Team"
         url = "people"
         weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Publications"
+        url = "publications"
+        weight = 3
 
     [[languages.en.menu.main]]
         name = "Research"
@@ -34,7 +39,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 4
+        weight = 5
 
 
 
@@ -69,7 +74,7 @@ DefaultContentLanguageInSubdir = true
   ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
-  frontBundle = "features"
+  frontBundle = "projects"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level

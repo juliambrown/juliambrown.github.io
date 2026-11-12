@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+    <h1 class="text-2xl font-bold mb-2">{{ .Title }}</h1>
+    {{ .Content }}
+    <p>
+      Also available on
+      <a href="{{ with where site.Params.homepage.social.icons "website" "googlescholar" }}{{ (index . 0).url }}{{ end }}">Google Scholar</a>.
+      <span class="text-sm">* equal contribution</span>
+    </p>
+
+    {{ $pubs := site.Data.publications }}
+
+    <h2>In revision</h2>
+    {{ range $pubs }}
+      {{ if .status }}
+        <p>{{ .authors | strings.TrimSuffix "." | markdownify }}. {{ .title }}. <em>{{ .journal }}</em> (in revision).</p>
+      {{ end }}
+    {{ end }}
+
+    {{ $last := 0 }}
+    {{ range sort $pubs "year" "desc" }}
+     {{ if not .status }}
+      {{ if ne .year $last }}
+        <h2>{{ .year }}</h2>
+        {{ $last = .year }}
+      {{ end }}
+      <p>
+        {{ .authors | strings.TrimSuffix "." | markdownify }}.
+        {{ if .url }}<a href="{{ .url }}">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}.
+        <em>{{ .journal }}</em>{{ with .details }} {{ . }}{{ end }}.
+      </p>
+     {{ end }}
+    {{ end }}
+  </article>
+{{ end }}

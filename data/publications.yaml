@@ -1,0 +1,181 @@
+# Publications list, adapted from the CV (July 2026).
+# Add new entries anywhere; the page sorts by year (newest first).
+# Fields: year, title, authors, journal, details (volume/pages), url (optional link).
+# Authors are rendered as markdown: **Brown JM** is bold, \* marks equal contribution.
+# An entry with `status: "in revision"` is listed first, in its own section.
+
+- year: 2026
+  title: Phage distributions within individual prokaryotes from the tropical surface ocean
+  authors: '**Brown JM**, Weinheimer A, Poulton N, Stepanauskas R'
+  journal: Nature Microbiology
+  details: ''
+  url: ''
+  status: in revision
+- year: 2025
+  title: Single-particle genomics uncovers abundant non-canonical marine viruses from nanolitre volumes
+  authors: Weinheimer AR, **Brown JM**, Thompson B, Leonaviciene G, Kiseliovas V, Jocys S, et al.
+  journal: Nature Microbiology
+  details: 10(12):3245-3257
+  url: ''
+- year: 2025
+  title: Net rate of lateral gene transfer in marine prokaryoplankton
+  authors: Stepanauskas R, **Brown JM**, Arasti S, Mai U, Gavelis G, Pachiadaki M, et al.
+  journal: ISME Journal
+  details: Published online 5 September 2025
+  url: ''
+- year: 2025
+  title: Laminarin stimulates single cell rates of sulfate reduction while oxygen inhibits transcriptomic activity in coastal marine sediment
+  authors: Lindsay MR, D'Angelo T, Goodell E, Munson-McGee JH, Herring M, Budner M, **Brown JM**, Gavelis G, Mascena C, Lubelczyk LC, Poulton NJ, Stepanauskas R, Orcutt BN, Emerson D
+  journal: ISME Journal
+  details: 19(1)
+  url: ''
+- year: 2024
+  title: Genomic representativeness and chimerism in large collections of SAGs and MAGs of marine prokaryoplankton
+  authors: Chang T, Gavelis GS, **Brown JM**, Stepanauskas R
+  journal: Microbiome
+  details: 12(1):126
+  url: ''
+- year: 2024
+  title: Species-resolved, single-cell respiration rates reveal dominance of sulfate reduction in a deep continental subsurface ecosystem
+  authors: Lindsay MR, D'Angelo T, Munson-McGee JH, Saidi-Mehrabad A, Delvin M, Goodell E, Herring M, Lubelczyk L, Mascena C, **Brown JM**, Gavelis GS, Liu J, Yousavich DJ, Hamilton-Brehm SD, Hedlund BP, Lang S, Treude T, Poulton NJ, Stepanauskas R, Moser DP, Emerson D, Orcutt BN
+  journal: Proceedings of the National Academy of Sciences
+  details: 121(15):e2309636121
+  url: ''
+- year: 2023
+  title: Life strategies for Aminicenantia in subseafloor oceanic crust
+  authors: Booker AE, D'Angelo T, Adams-Beyea A, **Brown JM**, Nigro O, Rappé MS, Stepanauskas R, Orcutt BN
+  journal: The ISME Journal
+  details: 17(9):1406-1415
+  url: https://doi.org/10.1038/s41396-023-01454-5
+- year: 2022
+  title: Resolving the structure of phage-bacteria interactions in the context of natural diversity
+  authors: Kauffman KM\*, Chang WK\*, **Brown JM**, Hussain FA, Yang J, Polz MF, Kelly L
+  journal: Nature Communications
+  details: 13(1):1-20
+  url: ''
+- year: 2022
+  title: Decoupling of respiration rates and abundance in marine prokaryoplankton
+  authors: Munson-McGee JH\*, Lindsay MR\*, Sintes E, **Brown JM**, D'Angelo T, Brown J, Lubelczyk LC, Tomko P, Emerson D, Orcutt BN, Poulton NJ, Herndl GJ, Stepanauskas R
+  journal: Nature
+  details: 612(7941):764-770
+  url: https://doi.org/10.1038/s41586-022-05505-3
+- year: 2021
+  title: Synthase-selective exploration of a tunicate microbiome by activity-guided single-cell genomics
+  authors: Kim WE\*, Charov K\*, Džunková M\*, Becraft ED\*, Brown J\*, Schulz F, Woyke T, La Clair JJ, Stepanauskas R, Burkart MD
+  journal: ACS Chemical Biology
+  details: 16(5):813-819
+  url: https://doi.org/10.1021/acschembio.1c00157
+- year: 2021
+  title: Microbial diversity and function in shallow subsurface sediment and oceanic lithosphere of the Atlantis Massif
+  authors: Goordial J, D'Angelo T, Labonté JM, Poulton NJ, **Brown JM**, Stepanauskas R, Früh-Green G, Orcutt BN
+  journal: mBio
+  details: 12(4):e00490-21
+  url: ''
+- year: 2021
+  title: Degradation of host translational machinery drives tRNA acquisition in viruses
+  authors: Yang JY, Fang W, Miranda-Sanchez F, **Brown JM**, Kauffman KM, Acevero CM, Bartel DP, Polz MF, Kelly L
+  journal: Cell Systems
+  details: 12(8):771-779.e5
+  url: https://doi.org/10.1016/j.cels.2021.05.019
+- year: 2020
+  title: Single cell genomics reveals viruses consumed by marine protists
+  authors: '**Brown JM**, Labonté JM, Brown J, Record NR, Poulton NJ, Sieracki ME, Logares R, Stepanauskas R'
+  journal: Frontiers in Microbiology
+  details: '2317'
+  url: ''
+- year: 2020
+  title: Ancestral absence of electron transport chains in Patescibacteria and DPANN
+  authors: Beam JP, Becraft ED, **Brown JM**, Schulz F, Jarett JK, Bezuidt O, Poulton NJ, Clark K, Dunfield PF, Ravin NV, Spear JR, Hedlund BP, Kormas KA, Sievert SM, Elshahed MS, Barton HA, Stott MB, Eisen JA, Moser DP, Onstott TC, Woyke T, Stepanauskas R
+  journal: Frontiers in Microbiology
+  details: 11:1848
+  url: https://doi.org/10.3389/fmicb.2020.01848
+- year: 2020
+  title: 'Hiding in plain sight: the globally distributed bacterial candidate phylum PAUC34f'
+  authors: Chen ML, Becraft ED, Pachiadaki M, **Brown JM**, Jarett JK, Gasol JM, Ravin NV, Moser DP, Nunoura T, Herndl GJ, Woyke T, Stepanauskas R
+  journal: Frontiers in Microbiology
+  details: 11:376
+  url: https://doi.org/10.3389/fmicb.2020.00376
+- year: 2019
+  title: Charting the complexity of the marine microbiome through single-cell genomics
+  authors: Pachiadaki MG, **Brown JM**, Brown J, Bezuidt O, Berube PM, Biller SJ, Poulton NJ, Burkart MD, La Clair JJ, Chisholm SW, et al.
+  journal: Cell
+  details: 179(7):1623-1635
+  url: ''
+- year: 2018
+  title: A major lineage of non-tailed dsDNA viruses as unrecognized killers of marine bacteria
+  authors: Kauffman KM, Hussain FA, Yang J, Arevalo P, **Brown JM**, Chang WK, VanInsberghe D, Elsherbini J, Sharma RS, Cutler MB, Kelly L, Polz MF
+  journal: Nature
+  details: ''
+  url: http://dx.doi.org/10.1038/nature25474
+- year: 2018
+  title: Viruses of the Nahant Collection, characterization of 251 marine Vibrionaceae viruses
+  authors: Kauffman KM\*, **Brown JM**\*, Sharma RS, VanInsberghe D, Elsherbini J, Polz M, Kelly L
+  journal: Scientific Data
+  details: 5(1):1-11
+  url: ''
+- year: 2017
+  title: 'Rokubacteria: genomic giants among the uncultured bacterial phyla'
+  authors: Becraft ED, Woyke T, Jarett J, Ivanova N, Godoy-Vitorino F, Poulton N, **Brown JM**, Brown J, Lau MCY, Onstott T, Eisen JA, Moser D, Stepanauskas R
+  journal: Frontiers in Microbiology
+  details: 8:2264
+  url: https://doi.org/10.3389/fmicb.2017.02264
+- year: 2017
+  title: Major role of nitrite-oxidizing bacteria in dark ocean carbon fixation
+  authors: Pachiadaki MG, Sintes E, Bergauer K, **Brown JM**, Record NR, Swan BK, Mathyer ME, Hallam SJ, Lopez-Garcia P, Takaki Y, Nunoura T, Woyke T, Herndl GJ, Stepanauskas R
+  journal: Science
+  details: 358(6366):1046-1051
+  url: https://doi.org/10.1126/science.aan8260
+- year: 2017
+  title: Improved genome recovery and integrated cell-size analyses of individual uncultured microbial cells and viral particles
+  authors: Stepanauskas R, Fergusson EA, Brown J, Poulton NJ, Tupper B, Labonté JM, Becraft ED, **Brown JM**, Pachiadaki MG, Povilaitis T, Thompson BP, Mascena CJ, Bellows WK, Lubys A
+  journal: Nature Communications
+  details: 8(1):84
+  url: https://doi.org/10.1038/s41467-017-00128-z
+- year: 2014
+  title: Draft genome sequence of marine alphaproteobacterial strain HIMB11, the first cultivated representative of a unique lineage within the Roseobacter clade possessing an unusually small genome
+  authors: Durham BP, Grote J, Whittaker KA, Bender SJ, Luo H, Grim SL, **Brown JM**, Casey JR, Dron A, Florez-Leiva L, Krupke A, Luria CM, Mine AH, Nigro OD, Pather S, Talarmin A, Wear EK, Weber TS, Wilson JM, Church MJ, DeLong EF, Karl DM, Steward GF, Eppley JM, Kyrpides NC, Schuster S, Rappé MS
+  journal: Standards in Genomic Sciences
+  details: 9(3):632-645
+  url: https://doi.org/10.4056/sigs.4998989
+- year: 2013
+  title: Characterization of Trichodesmium-associated viral communities in the eastern Gulf of Mexico
+  authors: '**Brown JM**, LaBarre BA, Hewson I'
+  journal: FEMS Microbiology Ecology
+  details: 84(3):603-613
+  url: ''
+- year: 2013
+  title: 'Effectiveness of Erythrina gall wasp biocontrol and implications for the recovery of threatened Wiliwili trees (Fabaceae: Erythrina sandwicensis)'
+  authors: Bell RC, Belmaker A, Couch CS, Marchetto KM, Simonis JL, Thomas RQ, Sparks JP, **Brown JM**, Francisco KS, Manuel ME
+  journal: The Journal of the Torrey Botanical Society
+  details: 140(2):215-224
+  url: https://doi.org/10.3159/TORREY-D-12-00069.1
+- year: 2012
+  title: Influence of habitat confluence on aquatic microbial assemblages in experimental mesocosms
+  authors: '**Brown J**, Felice N, Scalfone N, Hewson I'
+  journal: Aquatic Microbial Ecology
+  details: 66(1):33-40
+  url: https://doi.org/10.3354/ame01550
+- year: 2012
+  title: Description of viral assemblages associated with the Gorgonia ventalina holobiont
+  authors: Hewson I, **Brown JM**, Burge CA, Couch CS, LaBarre BA, Mouchka ME, Naito M, Harvell CD
+  journal: Coral Reefs
+  details: 31(2):487-491
+  url: https://doi.org/10.1007/s00338-011-0864-x
+- year: 2012
+  title: Temporal dynamics and decay of putatively allochthonous and autochthonous viral genotypes in contrasting freshwater lakes
+  authors: Hewson I, Barbosa JG, **Brown JM**, Donelan RP, Eaglesham JB, Eggleston EM, LaBarre BA
+  journal: Applied and Environmental Microbiology
+  details: 78(18):6583-6591
+  url: https://doi.org/10.1128/AEM.01705-12
+- year: 2011
+  title: Nucleopolyhedrovirus detection and distribution in terrestrial, freshwater, and marine habitats of Appledore Island, Gulf of Maine
+  authors: Hewson I, **Brown JM**, Gitlin SA, Doud DF
+  journal: Microbial Ecology
+  details: 62(1):48-57
+  url: https://doi.org/10.1007/s00248-011-9856-1
+- year: 2010
+  title: Ecophysiology of a common unannotated gene transcript in surface water microbial assemblages of the oligotrophic open ocean
+  authors: '**Brown J**, Hewson I'
+  journal: Aquatic Microbial Ecology
+  details: 60(3):289-297
+  url: https://doi.org/10.3354/ame01426

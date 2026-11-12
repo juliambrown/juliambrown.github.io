@@ -4,6 +4,7 @@ title: "Begin Again"
 date: 2025-07-21
 description: "Welcome to the Blue Bioinformatics Lab"
 thumbnail: "/etnp_sunrise.png"
+type: blog
 draft: false
 ---
 

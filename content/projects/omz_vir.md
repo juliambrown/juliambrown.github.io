@@ -10,7 +10,17 @@ draft: false
 
 Warmer ocean temperatures are leading to expanding oxygen loss within Earth’s oceans, negatively impacting global fisheries. Microbial processes exacerbate ocean deoxygenation and in low oxygen conditions facilitate the production of gases, including nitrous oxide and methane, that can have feedbacks on atmospheric and ocean chemistry. Despite the significant role of microbes, little is known about controls on microbial processes within oxygen-depleted marine waters, including the impact of viral infection. Such information is critical to accurately forecast the impact of ocean deoxygenation.  
 
-The Blue Bioinformatics Lab is pursuing research to understand the impacts of phages (viruses that infect bacteria and archaea) and RNA viruses within these systems.
+The Blue Bioinformatics Lab is pursuing research to understand the impacts of phages (viruses that infect bacteria and archaea) and RNA viruses within these systems, in collaboration with Maria Pachiadaki and Virginia Edgcomb at the Woods Hole Oceanographic Institution (WHOI). This work is funded by the National Science Foundation's Biological Oceanography program.
+
+__RNA viruses in oxygen minimum zones__
+
+Warmer ocean temperatures are leading to a net loss of dissolved oxygen and intensifying stratification of the water column, expanding the extent and severity of marine OMZs. Oxygen depletion makes these waters uninhabitable to large multicellular organisms, but OMZs host diverse and dynamic communities of bacteria, archaea and single-celled eukaryotes. Their activity drives global nitrogen, sulfur and carbon cycles, and produces potent greenhouse gases including nitrous oxide and methane. Controls on these microbial populations, including mortality caused by viral infection and lysis, are poorly understood. The 2022 IPCC special report *The Ocean and Cryosphere in a Changing Climate* specifically identifies viruses and their activities as an ecosystem component we understand too little to assess climate-related risks.
+
+Our RNA virus work targets that gap. RNA viruses infect both prokaryotic and eukaryotic microbes, and OMZs are ideal places to study them: their steep biogeochemical gradients cause large shifts in microbial community activity and composition along the oxycline. We draw on a one-of-a-kind, multidimensional collection of metagenomic and metatranscriptomic samples, collected from three of the largest marine OMZs on the planet in three consecutive years, and apply state-of-the-art bioinformatics workflows to identify and characterize novel RNA viruses. We map their distributions across depths, between organism size fractions and among OMZs, in relation to their potential hosts. Our goals are to:
+
+1. identify universal trends in RNA virus diversity and dynamics in OMZs, including potential host populations;
+2. identify novel virus-host interactions; and
+3. compare, across geographically distant but biogeochemically similar systems, how RNA viruses, their potential hosts and shifting biogeochemical conditions relate to one another.
 
 __Expeditions__  
 
