@@ -18,7 +18,7 @@ __Where we are headed__
 
 * __Modernizing infrastructure around tried and true workflows.__ New robotics and a new sequencer, funded in part by an NSF Major Research Instrumentation award, are streamlining the path from sample to genome while preserving the workflows SCGC clients know and trust.
 * __Low-concentration RNA sequencing.__ We are adding capabilities for low-concentration RNA, in collaboration with our [OMZ RNA virus project](/en/projects/omz_vir/).
-* __New systems and new applications.__ We are exploring new environments to study, and new ways to apply single-particle capture technology.
+* __New systems and new applications.__ We are exploring new environments to study, and new ways to apply our technologies and methods.
 * __Lowering costs and barriers.__ We are looking for ways to reduce the cost of SCGC services, including support for exploratory, pilot-stage projects, so that more researchers can find out what single cell genomics can do for them.
 
 If you have a question that might be answered one cell, or one virus, at a time, we'd love to hear from you.
