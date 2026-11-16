@@ -14,13 +14,11 @@ The Blue Bioinformatics Lab is pursuing research to understand the impacts of ph
 
 __RNA viruses in oxygen minimum zones__
 
-Warmer ocean temperatures are leading to a net loss of dissolved oxygen and intensifying stratification of the water column, expanding the extent and severity of marine OMZs. Oxygen depletion makes these waters uninhabitable to large multicellular organisms, but OMZs host diverse and dynamic communities of bacteria, archaea and single-celled eukaryotes. Their activity drives global nitrogen, sulfur and carbon cycles, and produces potent greenhouse gases including nitrous oxide and methane. Controls on these microbial populations, including mortality caused by viral infection and lysis, are poorly understood. The 2022 IPCC special report *The Ocean and Cryosphere in a Changing Climate* specifically identifies viruses and their activities as an ecosystem component we understand too little to assess climate-related risks.
+RNA viruses infect both prokaryotic and eukaryotic microbes, and OMZs are ideal places to study them: their steep biogeochemical gradients cause large shifts in microbial community activity and composition along the oxycline. We draw on a one-of-a-kind, multidimensional collection of metagenomic and metatranscriptomic samples, collected from three of the largest marine OMZs on the planet in three consecutive years, and apply state-of-the-art approaches for RNA virus identificaton to characterize novel RNA viruses, map their distributions across depths, between organism size fractions and among OMZs, in relation to their potential hosts. This work is funded by the National Science Foundation Biological Oceanography Program.
 
-Our RNA virus work targets that gap. RNA viruses infect both prokaryotic and eukaryotic microbes, and OMZs are ideal places to study them: their steep biogeochemical gradients cause large shifts in microbial community activity and composition along the oxycline. We draw on a one-of-a-kind, multidimensional collection of metagenomic and metatranscriptomic samples, collected from three of the largest marine OMZs on the planet in three consecutive years, and apply state-of-the-art bioinformatics workflows to identify and characterize novel RNA viruses. We map their distributions across depths, between organism size fractions and among OMZs, in relation to their potential hosts. Our goals are to:
+__DNA viruses in oxygen minimum zones__
 
-1. identify universal trends in RNA virus diversity and dynamics in OMZs, including potential host populations;
-2. identify novel virus-host interactions; and
-3. compare, across geographically distant but biogeochemically similar systems, how RNA viruses, their potential hosts and shifting biogeochemical conditions relate to one another.
+Very little is known about how viral (phage) infection shapes OMZ microbial communities or the biogeochemical processes they drive, in part because most surveys capture only free viral particles, missing the phages persisting within cells that likely dominate microbial life in these environments. Through collaborations with the Pachiadaki Group at Woods Hole Oceanographic, and the Stewart Lab at Montana State, we are conducting several host-centered analyses to understand the distribution and impact of infection within two specific abundant and active taxa. We are currently seeking opportunities to expand these analyses to understand DNA virus interactions across the entire microbial community, leveraging our rich collection of SAGs and meta'omics data.
 
 __Expeditions__  
 
@@ -40,7 +38,7 @@ The second expedition took place in 2024 aboard Schmidt Ocean's R/V Falkor(too).
 
 __Bay of Bengal__  
 
-After learning the ropes in the ETSP, Montana State Graduate student Annabelle Adams-Beyea is at sea in the the Bay of Bengal on the R/V Thompson collecting the third set of viral samples under the guidance of collaborator and Chief Scientist Maria Pachiadaki.
+After learning the ropes in the ETSP, Montana State Graduate student Annabelle Adams-Beyea visited the the Bay of Bengal on the R/V Thompson collecting the third set of viral samples under the guidance of collaborator and Chief Scientist Maria Pachiadaki.
 
 
 
